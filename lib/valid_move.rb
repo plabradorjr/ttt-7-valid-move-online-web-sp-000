@@ -1,6 +1,6 @@
 # code your #valid_move? method here
 def valid_move?(board, index)
-   if index = ( 1, 2, 3, 4, 5, 6, 7, 8, 9,)
+   if index == ( 1, 2, 3, 4, 5, 6, 7, 8, 9,)
      true
    end
 end
